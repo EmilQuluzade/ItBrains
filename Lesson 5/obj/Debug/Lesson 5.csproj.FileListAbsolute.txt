@@ -1,0 +1,8 @@
+C:\Users\dipil\source\repos\Lesson 5\bin\Debug\Lesson 5.exe.config
+C:\Users\dipil\source\repos\Lesson 5\bin\Debug\Lesson 5.exe
+C:\Users\dipil\source\repos\Lesson 5\bin\Debug\Lesson 5.pdb
+C:\Users\dipil\source\repos\Lesson 5\obj\Debug\Lesson 5.csproj.AssemblyReference.cache
+C:\Users\dipil\source\repos\Lesson 5\obj\Debug\Lesson 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dipil\source\repos\Lesson 5\obj\Debug\Lesson 5.csproj.CoreCompileInputs.cache
+C:\Users\dipil\source\repos\Lesson 5\obj\Debug\Lesson 5.exe
+C:\Users\dipil\source\repos\Lesson 5\obj\Debug\Lesson 5.pdb
