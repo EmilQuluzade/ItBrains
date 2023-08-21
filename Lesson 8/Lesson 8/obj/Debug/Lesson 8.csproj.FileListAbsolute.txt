@@ -1,0 +1,8 @@
+C:\Users\dipil\source\repos\Lesson 8\bin\Debug\Lesson 8.exe.config
+C:\Users\dipil\source\repos\Lesson 8\bin\Debug\Lesson 8.exe
+C:\Users\dipil\source\repos\Lesson 8\bin\Debug\Lesson 8.pdb
+C:\Users\dipil\source\repos\Lesson 8\obj\Debug\Lesson 8.csproj.AssemblyReference.cache
+C:\Users\dipil\source\repos\Lesson 8\obj\Debug\Lesson 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\dipil\source\repos\Lesson 8\obj\Debug\Lesson 8.csproj.CoreCompileInputs.cache
+C:\Users\dipil\source\repos\Lesson 8\obj\Debug\Lesson 8.exe
+C:\Users\dipil\source\repos\Lesson 8\obj\Debug\Lesson 8.pdb
