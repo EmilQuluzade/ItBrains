@@ -10,13 +10,10 @@ namespace Lesson8task2
         {
             List<Account> accounts = new List<Account>();
 
-            // Keep adding accounts indefinitely
             while (true)
             {
                 AddAccount(accounts);
             }
-
-            // This code won't be reached because of the infinite loop above
         }
 
         static void AddAccount(List<Account> accounts)
@@ -24,7 +21,6 @@ namespace Lesson8task2
             Console.Write("Enter your name: ");
             string name = Console.ReadLine();
 
-            // Validate user-entered name
             if (!IsNameValid(name))
             {
                 Console.WriteLine("Invalid name format. Only letters and numbers are allowed.");
@@ -34,7 +30,6 @@ namespace Lesson8task2
             Console.Write("Enter your password: ");
             string password = Console.ReadLine();
 
-            // Validate user-entered password
             if (!IsPasswordValid(password))
             {
                 Console.WriteLine("Invalid password format.");
@@ -57,14 +52,13 @@ namespace Lesson8task2
 
         static bool IsPasswordValid(string password)
         {
-            // Password validation: Length 8-25, at least 1 symbol, 1 uppercase letter, and 1 digit
             return Regex.IsMatch(password, @"^(?=.*[!@#$%^&*(),.?""\:{}|<>])(?=.*[A-Z])(?=.*\d).{8,25}$");
         }
     }
 
     class Account
     {
-        private static int nextAccountNumber = 1; // Start with account number 1
+        private static int nextAccountNumber = 1;
 
         public string Number { get; }
         public string Name { get; set; }
@@ -72,10 +66,10 @@ namespace Lesson8task2
 
         public Account(string name, string password)
         {
-            Number = nextAccountNumber.ToString(); // Assign the current account number
-            nextAccountNumber++; // Increment for the next account
-            Name = name; // Set the account holder's name
-            Password = password; // Set the account password
+            Number = nextAccountNumber.ToString();
+            nextAccountNumber++;
+            Name = name;
+            Password = password;
         }
     }
 }
