@@ -1,0 +1,7 @@
+C:\Users\dipil\source\repos\Lesson 9\bin\Debug\Lesson 9.exe.config
+C:\Users\dipil\source\repos\Lesson 9\bin\Debug\Lesson 9.exe
+C:\Users\dipil\source\repos\Lesson 9\bin\Debug\Lesson 9.pdb
+C:\Users\dipil\source\repos\Lesson 9\obj\Debug\Lesson 9.csproj.AssemblyReference.cache
+C:\Users\dipil\source\repos\Lesson 9\obj\Debug\Lesson 9.csproj.CoreCompileInputs.cache
+C:\Users\dipil\source\repos\Lesson 9\obj\Debug\Lesson 9.exe
+C:\Users\dipil\source\repos\Lesson 9\obj\Debug\Lesson 9.pdb
