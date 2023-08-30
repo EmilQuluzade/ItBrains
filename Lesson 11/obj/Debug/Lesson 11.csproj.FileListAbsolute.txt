@@ -1,0 +1,7 @@
+C:\Users\dipil\source\repos\Lesson 11\bin\Debug\Lesson 11.exe.config
+C:\Users\dipil\source\repos\Lesson 11\bin\Debug\Lesson 11.exe
+C:\Users\dipil\source\repos\Lesson 11\bin\Debug\Lesson 11.pdb
+C:\Users\dipil\source\repos\Lesson 11\obj\Debug\Lesson 11.csproj.AssemblyReference.cache
+C:\Users\dipil\source\repos\Lesson 11\obj\Debug\Lesson 11.csproj.CoreCompileInputs.cache
+C:\Users\dipil\source\repos\Lesson 11\obj\Debug\Lesson 11.exe
+C:\Users\dipil\source\repos\Lesson 11\obj\Debug\Lesson 11.pdb
