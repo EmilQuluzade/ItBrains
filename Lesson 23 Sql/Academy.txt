@@ -1,0 +1,24 @@
+--create database Academy
+--use Academy
+
+--CREATE TABLE Student (
+--    grade INT,
+--    fullname NVARCHAR(50),
+--    birthdate DATE,
+--    groupNo INT,
+--    age INT
+--);
+
+--ALTER TABLE Student
+--DROP COLUMN age;
+
+--INSERT INTO Student (grade, fullname, birthdate, groupNo)
+--VALUES
+--    (90, 'John Doe', '2000-05-15', 101),
+--    (85, 'Jane Smith', '2001-02-20', 102),
+--    (78, 'Alice Johnson', '1999-08-10', 101),
+--    (95, 'Bob Brown', '2002-04-30', 103);
+
+--UPDATE Student
+--SET fullname = 'Joe Biden'
+--WHERE fullname = 'John Doe';
