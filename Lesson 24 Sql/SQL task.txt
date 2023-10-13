@@ -1,0 +1,53 @@
+--create database COMPANY
+
+--use Company
+
+--CREATE TABLE CUSTOMERS(
+--ID int primary key identity,
+--[Name] nvarchar(50),
+--Surname nvarchar(50),
+--Salary int)
+
+--INSERT INTO CUSTOMERS ([Name], Surname, Salary)
+--VALUES
+--('John', 'Doe', 50000),
+--('Jane', 'Smith', 60000),
+--('Michael', 'Johnson', 75000),
+--('Emily', 'Williams', 55000),
+--('William', 'Brown', 62000),
+--('Olivia', 'Jones', 54000),
+--('James', 'Wilson', 68000),
+--('Mia', 'Davis', 52000),
+--('Alexander', 'Martinez', 72000),
+--('Sophia', 'Anderson', 58000),
+--('Elijah', 'Garcia', 67000),
+--('Charlotte', 'Harris', 51000),
+--('Benjamin', 'Taylor', 70000),
+--('Ava', 'Clark', 59000),
+--('Daniel', 'Moore', 73000),
+--('Amelia', 'Miller', 53000),
+--('Henry', 'White', 66000),
+--('Ella', 'Wilson', 50000),
+--('Matthew', 'Smith', 69000),
+--('Sofia', 'Lee', 61000)
+
+--Select [Name] from CUSTOMERS
+--update CUSTOMERS
+--set [Name] = 'Isabella'
+--where [Name] like '%via'
+
+--DELETE FROM CUSTOMERS
+--WHERE ID = 105;
+
+--SELECT AVG(Salary)FROM CUSTOMERS 
+
+--SELECT [Name] from CUSTOMERS
+--where Salary > (SELECT AVG(Salary) from CUSTOMERS)
+
+--SELECT [NAME] FROM CUSTOMERS
+--WHERE SALARY = (SELECT MAX(SALARY) FROM CUSTOMERS)
+
+--SELECT SURNAME FROM CUSTOMERS
+--WHERE SALARY = (SELECT MIN(SALARY) FROM CUSTOMERS)
+
+
